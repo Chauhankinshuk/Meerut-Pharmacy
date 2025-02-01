@@ -1,0 +1,160 @@
+import img1 from "./deliver.webp"
+export const products=[
+    {
+        _id:"aaaaa",
+        name:"paracetamaol",
+        description:"reduce fever",
+        price:90,
+        image:[img1],
+        category: "medicine",
+        subCategory:"tablet",
+        sizes:["10","20","30"],
+        date:1716621345448,
+        bestseller:false
+    },
+    {
+        _id:"aaaab",
+        name:"paracetamaol",
+        description:"reduce fever",
+        price:50,
+        image:[img1],
+        category: "medicine",
+        subCategory:"tablets",
+        sizes:["10","20","30"],
+        date:1716621345449,
+        bestseller:true
+    },
+    {
+        _id:"aaaac",
+        name:"paracetamaol",
+        description:"reduce fever",
+        price:200,
+        image:[img1],
+        category: "medicine",
+        subCategory:"capsule",
+        sizes:["10","20","30"],
+        date:1716621345450,
+        bestseller:false
+    },
+    {
+        _id:"aaaad",
+        name:"paracetamaol",
+        description:"reduce fever",
+        price:20000,
+        image:[img1],
+        category: "helthCare",
+        subCategory:"capsule",
+        sizes:["10","20","30"],
+        date:1716621345451,
+        bestseller:false
+    },
+    {
+        _id:"aaaae",
+        name:"paracetamaol",
+        description:"reduce fever",
+        price:2000,
+        image:[img1],
+        category: "healthCare",
+        subCategory:"Tablets",
+        sizes:["10","20","30"],
+        date:1716621345452,
+        bestseller:true
+    },
+    {
+        _id:"aaaaz",
+        name:"paracetamaol",
+        description:"reduce fever",
+        price:180,
+        image:[img1],
+        category: "surgical",
+        subCategory:"fragile",
+        sizes:["10","20","30"],
+        date:1716621345453,
+        bestseller:true
+    },
+    {
+        _id:"aaaaf",
+        name:"paracetamaol",
+        description:"reduce fever",
+        price:16,
+        image:[img1],
+        category: "surgical",
+        subCategory:"fragile",
+        sizes:["10","20","30"],
+        date:1716621345454,
+        bestseller:true
+    },
+    {
+        _id:"aaaag",
+        name:"paracetamaol",
+        description:"reduce fever",
+        price:15,
+        image:[img1],
+        category: "surgical",
+        subCategory:"fragile",
+        sizes:["10","20","30"],
+        date:1716621345455,
+        bestseller:false
+    },
+    {
+        _id:"aaaah",
+        name:"paracetamaol",
+        description:"reduce fever",
+        price:100,
+        image:[img1],
+        category: "medecine",
+        subCategory:"fragile",
+        sizes:["10","20","30"],
+        date:1716621345456,
+        bestseller:false
+    }, 
+    {
+        _id:"aaaai",
+        name:"paracetamaol",
+        description:"reduce fever",
+        price:500,
+        image:[img1],
+        category: "healthCare",
+        subCategory:"fragile",
+        sizes:["10","20","30"],
+        date:1716621345457,
+        bestseller:false
+    },
+    {
+        _id:"aaaaj",
+        name:"paracetamaol",
+        description:"reduce fever",
+        price:2,
+        image:[img1],
+        category: "medecine",
+        subCategory:"fragile",
+        sizes:["10","20","30"],
+        date:1716621345458,
+        bestseller:true
+    },
+    {
+        _id:"aaaak",
+        name:"paracetamaol",
+        description:"reduce fever",
+        price:2000,
+        image:[img1],
+        category: "medecine",
+        subCategory:"capsule",
+        sizes:["10","20","30"],
+        date:1716621345459,
+        bestseller:true
+    },
+    {
+        _id:"aaaal",
+        name:"paracetamaol",
+        description:"reduce fever",
+        price:200,
+        image:[img1],
+        category: "medecine",
+        subCategory:"tablets",
+        sizes:["10","20","30"],
+        date:1716621345460,
+        bestseller:false
+    }
+    
+]
